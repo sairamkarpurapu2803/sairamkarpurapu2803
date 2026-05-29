@@ -181,10 +181,9 @@ A sample Spring-based application for learning and demonstration purposes.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sairamkarpurapu2803&color=blue&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=sairamkarpurapu2803&style=for-the-badge&color=0e75b6" />
 
 </div>
-
 ---
 
 ## 🤝 Let's Connect
