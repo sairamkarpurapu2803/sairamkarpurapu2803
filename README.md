@@ -14,7 +14,7 @@
 
 ## 🚀 Professional Summary
 
-Junior DevOps Engineer with hands-on expertise in cloud infrastructure, CI/CD pipeline automation, and containerized application deployments on **AWS** and **Azure**. Proven ability to design and implement scalable infrastructure solutions, reduce deployment errors by **40%**, and enable rapid, reliable application delivery. Previously contributed as a GIS Engineer supporting large-scale navigation data validation projects for **Apple Maps** at RMSI.
+Junior DevOps Engineer with hands-on expertise in cloud infrastructure, CI/CD pipeline automation, and containerized application deployments on **AWS** and **Azure**. Proven ability to design and implement scalable infrastructure solutions, reduce deployment errors by 40%, and enable rapid, reliable application delivery. Previously contributed as a GIS Engineer supporting large-scale navigation data validation projects for Apple Maps at RMSI.
 
 ---
 
@@ -94,30 +94,63 @@ Junior DevOps Engineer with hands-on expertise in cloud infrastructure, CI/CD pi
 
 ## 🎯 Featured Projects
 
-### 🔗 [E-Commerce CI/CD Pipeline](https://github.com/sairamkarpurapu2803/ecommerce-cicd-pipeline)
-Complete Jenkins CI/CD pipeline for Java-based e-commerce application with Docker, Kubernetes, and monitoring.
-- **Stack**: Jenkins, Docker, Kubernetes, AWS EKS, Prometheus, Grafana
-- **Impact**: 40% reduction in deployment errors, 30% faster releases
+### 🔗 [Netflix Microservices Architecture](https://github.com/sairamkarpurapu2803/netflix-microservices)
+Spring Boot Microservices Architecture with complete CI/CD pipeline integration.
+- **Stack**: Java, Spring Boot, Jenkins, Docker, Kubernetes, AWS EKS, Prometheus, Grafana
+- **Impact**: Full microservices deployment, automated testing & deployment
+- **Language**: Java
 
-### 🐳 [Docker Best Practices](https://github.com/sairamkarpurapu2803/docker-optimization)
-Optimized Dockerfiles and container strategies for production environments.
-- **Stack**: Docker, Docker Compose, Container Registry
-- **Features**: Multi-stage builds, security scanning, performance optimization
+### 🏗️ [Terraform Infrastructure as Code](https://github.com/sairamkarpurapu2803/terraformcode)
+Automating cloud infrastructure provisioning using Terraform with reusable and scalable IaC modules.
+- **Stack**: Terraform, AWS, VPC, EC2, S3, IAM, Modules
+- **Features**: Infrastructure automation, modular code, state management
+- **Impact**: Reduced infrastructure setup time by 50%
 
-### ☸️ [Kubernetes Deployment Guide](https://github.com/sairamkarpurapu2803/k8s-deployment)
-AWS EKS cluster setup, autoscaling configurations, and Helm deployments.
-- **Stack**: Kubernetes, AWS EKS, Helm, YAML
-- **Features**: HPA, VPA, resource quotas, network policies
+### 🏗️ [Terraform AWS S3 CloudFront Static Website](https://github.com/sairamkarpurapu2803/terraform-aws-s3-cloudfront-static-website-hosting)
+Infrastructure automation for AWS static website hosting with CDN distribution.
+- **Stack**: Terraform, AWS S3, CloudFront, Route53
+- **Features**: Automated static website deployment, global CDN, SSL/TLS
 
-### 🏗️ [Terraform Infrastructure as Code](https://github.com/sairamkarpurapu2803/terraform-aws-infrastructure)
-Infrastructure automation templates for AWS VPC, EC2, S3, and security configurations.
-- **Stack**: Terraform, AWS, Modules, State Management
-- **Resources**: VPC, Subnets, Security Groups, IAM, Load Balancers
+### 🐳 [DevSecOps 3-Tier Application](https://github.com/sairamkarpurapu2803/3tierapplicationdeplyDevSecOps)
+Complete 3-tier application deployment with security scanning and DevSecOps best practices.
+- **Stack**: Docker, Kubernetes, Jenkins, SonarQube, OWASP, Container Registry
+- **Features**: Security scanning, automated testing, secure container practices
 
-### 📊 [Prometheus & Grafana Monitoring](https://github.com/sairamkarpurapu2803/monitoring-stack)
-Complete observability setup with Prometheus metrics and Grafana dashboards.
-- **Stack**: Prometheus, Grafana, AlertManager, Node Exporter
-- **Dashboards**: System metrics, application performance, custom alerts
+### 📸 [Image Resizing Project on AWS](https://github.com/sairamkarpurapu2803/Image-Resizing-project-on-aws)
+AWS Lambda serverless project for image resizing with event-driven architecture.
+- **Stack**: AWS Lambda, S3, Python, Event-driven architecture
+- **Features**: Automated image processing, serverless scaling
+- **Use Case**: Event-triggered image optimization
+
+### 📚 [Python Mini Projects](https://github.com/sairamkarpurapu2803/python-mini-projects)
+Collection of simple Python mini projects to enhance Python skills.
+- **Stack**: Python, automation scripts
+- **Features**: Practical Python examples, automation utilities
+
+### 🛒 [Shopping Cart Application](https://github.com/sairamkarpurapu2803/shoping-cart)
+Transform Shopping into Seamless, Effortless Experiences - Full-stack e-commerce application.
+- **Stack**: HTML, JavaScript, Frontend
+- **Language**: HTML
+
+### 📜 [AWS Certified Cloud Practitioner Notes](https://github.com/sairamkarpurapu2803/AWS-Certified-Cloud-Practitioner-Notes)
+AWS Certified Cloud Practitioner Short Notes And Practice Exams (CLF-C02).
+- **Content**: Study materials, practice questions, exam preparation
+- **Target**: AWS certification preparation
+
+### 🤖 [AWS Certified AI Practitioner Study Notes](https://github.com/sairamkarpurapu2803/aws-certified-ai-practitioner-study-notes)
+AWS Certified AI Practitioner Study Notes and Practice Test (AIF-C01).
+- **Content**: AI/ML concepts, AWS services, exam preparation
+- **Target**: AWS AI certification readiness
+
+### 🔮 [500 AI Agents Projects](https://github.com/sairamkarpurapu2803/500-AI-Agents-Projects)
+A curated collection of AI agent use cases across various industries with practical applications.
+- **Content**: Healthcare, Finance, Education, Retail, Manufacturing AI agents
+- **Focus**: Real-world AI agent implementations
+
+### 🐱 [Spring PetClinic](https://github.com/sairamkarpurapu2803/spring-petclinic)
+A sample Spring-based application for learning and demonstration purposes.
+- **Stack**: Spring Framework, Java
+- **Purpose**: Sample application for Spring development
 
 ---
 
