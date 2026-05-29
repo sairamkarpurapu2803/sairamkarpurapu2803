@@ -181,7 +181,7 @@ A sample Spring-based application for learning and demonstration purposes.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sairamkarpurapu2803&style=for-the-badge&color=0e75b6" />
+<img src="https://komarev.com/ghpvc/?username=sairamkarpurapu2803&style=for-the-badge&color=blueviolet" />
 
 </div>
 ---
