@@ -14,7 +14,7 @@
 
 ## 🚀 Professional Summary
 
-Junior DevOps Engineer with hands-on expertise in cloud infrastructure, CI/CD pipeline automation, and containerized application deployments on **AWS** and **Azure**. Proven ability to design and implement scalable infrastructure solutions, reduce deployment errors by 40%, and enable rapid, reliable application delivery. Previously contributed as a GIS Engineer supporting large-scale navigation data validation projects for Apple Maps at RMSI.
+Junior DevOps Engineer with hands-on experience building scalable cloud infrastructure and end-to-end CI/CD pipelines on AWS and Azure. I automate build, test, and deployment workflows using Jenkins and GitOps practices, containerize applications with Docker, and manage production workloads on Kubernetes (EKS). I write maintainable IaC with Terraform and Ansible, and instrument systems with Prometheus/Grafana for proactive monitoring. Passionate about secure, reliable delivery and continuous improvement.
 
 ---
 
