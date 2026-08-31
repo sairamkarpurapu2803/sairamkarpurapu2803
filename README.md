@@ -55,19 +55,16 @@ Junior DevOps Engineer with hands-on experience building scalable cloud infrastr
 
 ## 💼 Professional Experience
 
-### **Junior DevOps Engineer** | Sep 2025 – Present
-**E-Commerce Web Application CI/CD Project** | Client: CloudDevOpsHub
+## 🧰 Hands-on Experience
 
-**Key Achievements:**
-- 🔄 **Architected Jenkins CI/CD Pipeline**: Fully automated build, test, and deployment workflows for Java-based e-commerce application, reducing manual deployment errors by **40%**
-- 📦 **Container Strategy**: Containerized all services using Docker, ensuring consistent runtime environments across dev, test, and production
-- ☸️ **Kubernetes Deployment**: Deployed on AWS EKS with 3-node clusters and horizontal pod autoscaling for high availability
-- 📊 **Observability**: Built Prometheus & Grafana dashboards tracking 10+ infrastructure metrics, enabling proactive issue detection
-- 🚀 **Infrastructure Automation**: Provisioned AWS resources (EC2, IAM, S3, VPC, CloudFront, Route53) for secure, reliable hosting
-- 📈 **Performance Optimization**: Tuned Kubernetes autoscaling policies to handle peak traffic, boosting availability by **20%**
-- 🔐 **Code Quality**: Integrated SonarQube for automated vulnerability detection, resolving 15+ issues pre-release
-- ⚡ **Build Optimization**: Streamlined Maven builds, reducing configuration time by **25%** across environments
-- 🔗 **Deployment Speed**: Git-based automated triggers accelerated release speed by **30%**
+- 🔄 Jenkins CI/CD: Architected and implemented automated build, test, and deployment pipelines for Java-based applications using Jenkins and Maven—reducing manual deployment errors by ~40% and accelerating release speed by ~30%.
+- 📦 Containerization: Containerized microservices with Docker and maintained CI image pipelines and registries for consistent environments across dev/test/prod.
+- ☸️ Kubernetes (EKS): Deployed and managed workloads on AWS EKS with multi-node clusters, Horizontal Pod Autoscaling, and tuned autoscaling policies to improve availability by ~20%.
+- 📊 Observability: Instrumented systems with Prometheus and Grafana; built dashboards and alerts tracking 10+ infrastructure and application metrics for proactive monitoring.
+- 🚀 Infrastructure Automation: Provisioned AWS infrastructure (VPC, EC2, S3, IAM, CloudFront, Route53) using Terraform modules and maintained IaC best practices.
+- 🔐 Security & Code Quality: Integrated SonarQube into CI for static analysis and vulnerability detection; enforced fixes before releases.
+- ⚡ Build & Release Optimization: Streamlined Maven builds (reducing build/configuration time by ~25%) and implemented Git-based triggers for automated deployments.
+- 📈 Performance Tuning: Tuned resource requests/limits and autoscaling to handle peak traffic and improve system reliability.
 
 ---
 
